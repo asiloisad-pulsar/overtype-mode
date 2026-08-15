@@ -11,7 +11,7 @@ Replace existing text as you type instead of inserting. Enables overtype/overwri
 
 ## Installation
 
-To install `overtype-mode` search for [overtype-mode](https://web.pulsar-edit.dev/packages/overtype-mode) in the Install pane of the Pulsar settings or run `ppm install overtype-mode`. Alternatively, you can run `ppm install asiloisad/pulsar-overtype-mode` to install a package directly from the GitHub repository.
+To install `overtype-mode` search for [overtype-mode](https://web.pulsar-edit.dev/packages/overtype-mode) in the Install pane of the Pulsar settings or run `ppm install overtype-mode`. Alternatively, you can run `ppm install asiloisad-pulsar/overtype-mode` to install a package directly from the GitHub repository.
 
 ## Commands
 
