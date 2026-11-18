@@ -2,6 +2,9 @@
 
 Replace existing text as you type instead of inserting. Enables overtype/overwrite mode with visual block cursor and status bar indicator.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [overtype-mode](https://github.com/lumine-code/overtype-mode).
+
 ## Features
 
 - **Toggle mode**: Switch globally or per editor.
